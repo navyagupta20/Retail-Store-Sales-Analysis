@@ -26,7 +26,8 @@ The Retail Store wants to create an annual sales report for 2022. So that, the o
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+<img width="1409" height="637" alt="Retail Store sales Analysis Dashboard" src="https://github.com/user-attachments/assets/34ad8763-516f-45ab-a8d2-d60cd79359fd" />
+
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
