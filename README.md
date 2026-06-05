@@ -1,4 +1,4 @@
-#  Retail Store Sales Analysis
+## ⭐ Retail Store Sales Analysis
 
 ## 🎯 Project Objective
 The Retail Store wants to create an annual sales report for 2022 so that the owner can better understand customer behavior and increase sales in 2023 and 2024.
@@ -6,7 +6,7 @@ The Retail Store wants to create an annual sales report for 2022 so that the own
 ## 📂 Dataset Used
 - Dataset: [Retail Store Dataset](https://github.com/navyagupta20/Retail-Store-Sales-Analysis/blob/main/Retail%20Store%20Dataset.xlsx)
 
-## 📊 Questions (KPIs)
+## 📊 Questions 
 - Compare sales and orders using a single chart.
 - Which month recorded the highest sales and orders?
 - Who purchased more products – Men or Women?
