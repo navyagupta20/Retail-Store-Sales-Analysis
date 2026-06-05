@@ -17,7 +17,7 @@ The Retail Store wants to create an annual sales report for 2022 so that the own
 - What was the highest-selling category?
 - What percentage of total orders were delivered?
 
-## 🎛️ Dashboard Interaction
+## 📌 Dashboard Interaction
 - [View Dashboard](https://github.com/navyagupta20/Retail-Store-Sales-Analysis/blob/main/Retail%20Store%20sales%20Analysis%20Dashboard.png)
 
 ## ⚙️ Process
