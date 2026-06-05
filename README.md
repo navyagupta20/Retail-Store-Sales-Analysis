@@ -1,41 +1,42 @@
-# Retail-Store-Sales-Analysis
-## Project Objective
-The Retail Store wants to create an annual sales report for 2022. So that, the owner of the Retail store can understand their customers and grow more sales in 2023 & 2024.
+#  Retail Store Sales Analysis
 
-## Dataset used
-- <a href="https://github.com/navyagupta20/Retail-Store-Sales-Analysis/blob/main/Retail%20Store%20Dataset.xlsx">Dataset</a>
+## 🎯 Project Objective
+The Retail Store wants to create an annual sales report for 2022 so that the owner can better understand customer behavior and increase sales in 2023 and 2024.
 
-## Questions (KPIs)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivered
+## 📂 Dataset Used
+- Dataset: [Retail Store Dataset](https://github.com/navyagupta20/Retail-Store-Sales-Analysis/blob/main/Retail%20Store%20Dataset.xlsx)
 
-- Dashboard Interaction <a href="https://github.com/navyagupta20/Retail-Store-Sales-Analysis/blob/main/Retail%20Store%20sales%20Analysis%20Dashboard.png">View Dashboard</a>
+## 📊 Questions (KPIs)
+- Compare sales and orders using a single chart.
+- Which month recorded the highest sales and orders?
+- Who purchased more products – Men or Women?
+- What were the different order statuses in 2022?
+- List the top 10 states contributing to sales.
+- Analyze the relationship between age and gender based on the number of orders.
+- Which sales channel contributed the most to revenue?
+- What was the highest-selling category?
+- What percentage of total orders were delivered?
 
-## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## 🎛️ Dashboard Interaction
+- [View Dashboard](https://github.com/navyagupta20/Retail-Store-Sales-Analysis/blob/main/Retail%20Store%20sales%20Analysis%20Dashboard.png)
 
-## Dashboard
+## ⚙️ Process
+- Verified data for missing values and anomalies and resolved them.
+- Ensured consistency in data types, formats, and values.
+- Created pivot tables to answer the business questions.
+- Combined all pivot tables into a single interactive dashboard.
+- Applied slicers to make the dashboard dynamic and user-friendly.
 
-<img width="1409" height="637" alt="Retail Store sales Analysis Dashboard" src="https://github.com/user-attachments/assets/34ad8763-516f-45ab-a8d2-d60cd79359fd" />
+## 📈 Dashboard
 
+<img width="1409" height="637" alt="Retail Store Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/34ad8763-516f-45ab-a8d2-d60cd79359fd" />
 
-## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+## 💡 Project Insights
+-  Women customers are more likely to purchase products than men (~65%).
+-  Maharashtra, Karnataka, and Uttar Pradesh are the top three states contributing to sales.
+-  The Adult age group (30–49 years) contributes nearly 50% of total orders.
+-  Amazon, Flipkart, and Myntra are the leading sales channels.
+-  More than 90% of orders were successfully delivered.
 
-## Final Conclusion:
-To improve the sales of Retail Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
-
+## 🚀 Final Conclusion
+To improve sales, the Retail Store should focus its marketing efforts on women aged 30–49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. This customer segment contributes significantly to overall sales and frequently purchases household and lifestyle products. Targeted digital marketing campaigns, personalized offers, and platform-specific promotions on Amazon, Flipkart, and Myntra can help attract and retain these customers, ultimately driving higher sales growth in future years.
